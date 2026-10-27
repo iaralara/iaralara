@@ -5,6 +5,7 @@
 
 *Transformando processos manuais complexos em sistemas automatizados, eficientes e escaláveis.*
 
+[![Portfólio Web](https://img.shields.io/badge/Portfólio-iaralara.github.io-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://iaralara.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
 [![GitHub](https://img.shields.io/badge/GitHub-Portfólio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iaralara)
 [![Email](https://img.shields.io/badge/Contato-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iaralara1812@gmail.com)
